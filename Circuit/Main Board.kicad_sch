@@ -5,10 +5,11 @@
 	(uuid "20aae4b7-3fb8-4924-82e8-1e7a29a313f8")
 	(paper "A4")
 	(title_block
-		(title "Interconnect")
-		(date "2026-03-02")
+		(title "Root")
+		(date "2026-05-02")
 		(rev "1.0")
-		(company "Harry and Yuki - EEE3 Instrumentation")
+		(company "Harry Hill and Yuki Hoshino")
+		(comment 1 "LCR Meter")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"

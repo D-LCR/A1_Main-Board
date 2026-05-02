@@ -6,9 +6,10 @@
 	(paper "A4")
 	(title_block
 		(title "Signal Source")
-		(date "2026-03-02")
+		(date "2026-05-02")
 		(rev "1.0")
-		(company "Harry and Yuki - EEE3 Instrumentation")
+		(company "Harry Hill and Yuki Hoshino")
+		(comment 1 "LCR Meter")
 	)
 	(lib_symbols
 		(symbol "AGQ200A12:AGQ200A12"

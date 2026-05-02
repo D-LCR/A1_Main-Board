@@ -6,9 +6,10 @@
 	(paper "A4")
 	(title_block
 		(title "Current Amplifier")
-		(date "2026-03-02")
+		(date "2026-05-02")
 		(rev "1.0")
-		(company "Harry and Yuki - EEE3 Instrumentation")
+		(company "Harry Hill and Yuki Hoshino")
+		(comment 1 "LCR Meter")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:OPA2376xxD"
@@ -3297,6 +3298,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3361,6 +3368,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "R81")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -3451,6 +3464,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3518,6 +3537,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "R85")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -3608,6 +3633,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3694,6 +3725,12 @@
 					(unit 2)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3761,6 +3798,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3823,6 +3866,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "#PWR0117")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -3895,6 +3944,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3958,6 +4013,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "#PWR0126")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -4025,6 +4086,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "R77")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -4096,6 +4163,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4159,6 +4232,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "#PWR0115")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -4227,6 +4306,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4289,6 +4374,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "#PWR0116")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -4414,6 +4505,12 @@
 					(unit 2)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4479,6 +4576,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "C43")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -4606,6 +4709,12 @@
 					(unit 5)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4670,6 +4779,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "R83")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -4740,6 +4855,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4803,6 +4924,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "#PWR0121")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -4874,6 +5001,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4937,6 +5070,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "#PWR0122")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -5061,6 +5200,12 @@
 					(unit 4)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5131,6 +5276,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5197,6 +5348,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5259,6 +5416,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "#PWR0127")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -5332,6 +5495,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5402,6 +5571,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5466,6 +5641,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "#PWR0124")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -5535,6 +5716,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5598,6 +5785,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "#PWR0119")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -5689,6 +5882,12 @@
 					(unit 3)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5754,6 +5953,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "R84")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -5879,6 +6084,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5942,6 +6153,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "#PWR0120")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -6012,6 +6229,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "R?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6076,6 +6299,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "R79")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "R?")
 					(unit 1)
 				)
 			)
@@ -6147,6 +6376,12 @@
 					(unit 1)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6214,6 +6449,12 @@
 			(project "Main Board"
 				(path "/20aae4b7-3fb8-4924-82e8-1e7a29a313f8/2e1ccfa8-8bce-4bb4-9d3d-716156df4d18"
 					(reference "C48")
+					(unit 1)
+				)
+			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "C?")
 					(unit 1)
 				)
 			)
@@ -6341,6 +6582,18 @@
 					(unit 3)
 				)
 			)
+			(project "currentamp"
+				(path "/40da1dc2-c5cd-49cf-a144-8ea4ba25b599"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )

@@ -6,9 +6,10 @@
 	(paper "A4")
 	(title_block
 		(title "Voltage Amplifier")
-		(date "2026-03-02")
+		(date "2026-05-02")
 		(rev "1.0")
-		(company "Harry and Yuki - EEE3 Instrumentation")
+		(company "Harry Hill and Yuki Hoshino")
+		(comment 1 "LCR Meter")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:OPA2197xD"
