@@ -188,7 +188,7 @@
       ],
       "settings": {
         "format": "zip",
-        "output_path": "Output/A1 Main Board Rev. 1"
+        "output_path": "../Output/${PROJECTNAME}"
       },
       "type": "archive"
     },
@@ -196,21 +196,11 @@
       "description": "Gerbers",
       "id": "7d9a5dc3-7a52-4348-a376-68336c3e79aa",
       "only": [
-        "6f0d09ae-2dad-41b1-adcb-c31c65a52019"
-      ],
-      "settings": {
-        "output_path": "Output/Gerbers"
-      },
-      "type": "folder"
-    },
-    {
-      "description": "Drills",
-      "id": "8dec657b-5b46-4dac-adc8-ae212099d0be",
-      "only": [
+        "6f0d09ae-2dad-41b1-adcb-c31c65a52019",
         "8bd3d19a-1e43-4e39-b1e8-9067addfdc5c"
       ],
       "settings": {
-        "output_path": "Output/Drill"
+        "output_path": "../Output/Gerbers"
       },
       "type": "folder"
     },
@@ -221,7 +211,7 @@
         "0fd5e437-770e-4dd3-ae90-6040537a47c0"
       ],
       "settings": {
-        "output_path": "Output/BOM"
+        "output_path": "../Output/BOM"
       },
       "type": "folder"
     },
@@ -232,7 +222,7 @@
         "bf377085-1674-437d-9da0-74d6addfefdc"
       ],
       "settings": {
-        "output_path": "Output/Schematics"
+        "output_path": "../Output"
       },
       "type": "folder"
     }
