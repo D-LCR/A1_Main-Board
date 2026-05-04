@@ -3998,7 +3998,7 @@
 			)
 		)
 		(pin "R_SEL_10k" input
-			(at 101.6 148.59 180)
+			(at 101.6 151.13 180)
 			(uuid "b7958eac-e134-4d9c-ae40-848e9213b0bd")
 			(effects
 				(font
@@ -4018,7 +4018,7 @@
 			)
 		)
 		(pin "R_SEL_1k" input
-			(at 101.6 151.13 180)
+			(at 101.6 148.59 180)
 			(uuid "9f46ab96-fbba-4a67-bd21-3ee41ed92e88")
 			(effects
 				(font

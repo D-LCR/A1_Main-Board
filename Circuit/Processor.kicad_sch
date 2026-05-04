@@ -3949,7 +3949,7 @@
 	)
 	(hierarchical_label "R_SEL_100"
 		(shape output)
-		(at 198.12 127 180)
+		(at 198.12 71.12 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4004,12 +4004,12 @@
 	)
 	(hierarchical_label "R_SEL_10k"
 		(shape output)
-		(at 233.68 73.66 0)
+		(at 198.12 127 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "7450e7ad-936e-4baa-aac0-e920e4a68e24")
 	)
@@ -4026,12 +4026,12 @@
 	)
 	(hierarchical_label "R_SEL_10"
 		(shape output)
-		(at 198.12 124.46 180)
+		(at 233.68 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "8d45b73d-eba0-4f34-8831-536bc18ac783")
 	)
@@ -4059,12 +4059,12 @@
 	)
 	(hierarchical_label "R_SEL_100k"
 		(shape output)
-		(at 233.68 71.12 0)
+		(at 198.12 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "9ab46192-4480-42a5-af71-0c42f3774999")
 	)
@@ -4092,12 +4092,12 @@
 	)
 	(hierarchical_label "DC_INT_ISO"
 		(shape output)
-		(at 198.12 71.12 180)
+		(at 233.68 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "bde8d37a-90a0-4abc-8025-72fb1570cad8")
 	)
