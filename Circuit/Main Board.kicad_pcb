@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "A1 Main Board")
-		(date "2026-05-02")
+		(date "2026-05-05")
 		(rev "1.0")
 		(company "Harry Hill and Yuki Hoshino")
 		(comment 1 "LCR Meter")
