@@ -4357,6 +4357,7 @@
 	(symbol
 		(lib_id "Connector:Conn_01x05_Pin")
 		(at 50.8 88.9 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4364,10 +4365,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f4afddfa-d4ec-4a50-8c84-1b44ebc21875")
 		(property "Reference" "J9"
-			(at 51.435 78.74 0)
+			(at 50.8 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4377,7 +4377,7 @@
 			)
 		)
 		(property "Value" "Conn_01x05_Pin"
-			(at 51.435 81.28 0)
+			(at 50.8 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
