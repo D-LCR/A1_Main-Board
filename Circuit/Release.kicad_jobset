@@ -104,7 +104,7 @@
         "bom_preset_name": "",
         "description": "",
         "exclude_dnp": false,
-        "field_delimiter": "",
+        "field_delimiter": ",",
         "fields_group_by": [
           "Value",
           "${DNP}"
@@ -146,11 +146,11 @@
         "keep_line_breaks": false,
         "keep_tabs": false,
         "output_filename": "BOM.csv",
-        "ref_delimiter": "",
-        "ref_range_delimiter": "",
+        "ref_delimiter": ",",
+        "ref_range_delimiter": ",",
         "sort_asc": true,
         "sort_field": "Reference",
-        "string_delimiter": "",
+        "string_delimiter": "\"",
         "variant_names": []
       },
       "type": "sch_export_bom"
@@ -189,9 +189,9 @@
         "format": "csv",
         "gerber_board_edge": true,
         "negate_bottom_x": false,
-        "output_filename": "Positions",
+        "output_filename": "Positions.csv",
         "side": "both",
-        "single_file": false,
+        "single_file": true,
         "smd_only": false,
         "units": "mm",
         "use_drill_place_file_origin": true,
@@ -213,7 +213,7 @@
       ],
       "settings": {
         "format": "zip",
-        "output_path": "../Output/${PROJECTNAME}"
+        "output_path": "../Output/Gerbers"
       },
       "type": "archive"
     },
